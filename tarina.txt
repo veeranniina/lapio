@@ -1,1 +1,2 @@
 Tässä on pätkä tekstiä tarina.txt-tiedostoon.
+Tässä on uusi pätkä tekstiä tarina.txt-tiedostoon.
